@@ -1,0 +1,32 @@
+.login-form {
+  border: 1px solid black;
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+* {
+  text-align: center;
+}
+
+.support {
+  background-color: goldenrod;
+  height: 300px
+}
+
+.contact {
+  background-color: pink;
+  height: 300px
+}
+
+.about {
+  background-color: purple;
+  height: 300px
+}
+
+.home {
+  background-color: brown;
+  height: 300px
+}
